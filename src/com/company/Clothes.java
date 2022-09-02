@@ -1,0 +1,5 @@
+package com.company;
+
+public enum Clothes {
+    POLICE,FIREMAN,BUILDER,MYAKISH_CLOTH,PONCHIK_CLOTH,SHAFER_CLOTH,NEELOVCI_CLOTH;
+}
